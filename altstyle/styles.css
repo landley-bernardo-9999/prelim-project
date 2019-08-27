@@ -1,0 +1,228 @@
+body{
+    background-color:whitesmoke;
+    margin: 0% 0% 0% 0%;
+}
+
+.My_Website {
+    background-color:orange;
+    color:black;
+
+    
+}
+ul li a{
+    text-decoration: none;
+    color:rgb(23, 31, 51);
+    padding: 5px 20 px;
+    border: 1px solid black;
+    transition: 0.6s ease;
+    size: 150%;
+
+}
+
+li{
+   display:inline;
+
+}
+
+a{
+    padding-right: 15px;
+}
+
+ul{
+   padding:0;
+   list-style: none;
+}
+
+ul li a:hover{
+    background-color:orangered;
+}
+
+
+.sample{
+    padding: 3%;
+}
+
+.sample2{
+  font-family: Tahoma;
+  font-weight: 800;
+  font-style: italic;
+}
+
+}
+ 
+.video1{
+    width:50%;
+}
+
+.ballife{
+    background-color: gray;
+    
+}
+
+
+#resume{
+    padding: 2%;
+    border: solid;
+    background-color: bisque;
+}
+
+.family{
+  margin:10px 50px;
+  text-align: center;
+   
+}
+
+h2 {
+    text-align: left;
+    color: black;
+    margin:30px 0 50px;
+}
+.family img{
+    width: 230 px;
+    padding: 5px;
+    filter: grayscale( 100%);
+    transition: 2s;
+    margin-left: 5%; 
+}
+.family img:hover{
+    filter: grayscale(0); 
+    transform: scale(1.1); 
+}
+ 
+.fix-me{
+    position: fixed;
+    top:350px;
+    border: solid;
+    background-color:black;
+    margin-left: 95%;
+    color:white;
+
+
+}
+
+.fix-me:hover{
+    background-color:turquoise;
+}
+    
+
+.description{
+    text-align: center;
+}
+
+}
+
+#video {
+    position:fixed;
+    z-index: 9999;
+    height: 100px;
+    width: 300px;
+    
+}
+
+.p-box{
+    width:850px;
+    height:700px ;
+    border:2px black; 
+    margin-top:30px;
+    margin-left:19%;
+    background-color: aquamarine;
+    left: 300px;
+
+
+}
+
+.contacts1{
+    margin-bottom: 50% ;
+    background-color: aquamarine;
+    size: 10in;
+}
+
+.masipag{
+    width: 200 px;
+    padding:10px;
+    filter: grayscale( 150%);
+    transition: 2s;
+  text-align: center;
+}
+
+.masipag:hover{
+    filter: grayscale(0); 
+    transform: scale(1.2); 
+}
+
+.Me1{
+    size: 100ch;
+    margin-left: 35%;
+
+}
+h1{
+    text-align:center;
+}
+
+.wassup{
+    text-align: center;
+}
+
+.resume{
+    text-align: right;
+}
+
+.video1{
+    width: 50%;
+    height: 10%;
+    text-align: center;
+ 
+}
+
+.video2{
+    width: 50%;
+    
+}
+
+.video3{
+    width: 50%;
+    height: 10%;
+    
+}
+
+.video4{
+    width: 50%;
+
+    
+}
+
+.video5{
+    width: 50%;
+    height: 10%;
+    
+}
+
+.video6{
+    width: 50%;
+
+}
+
+.video7{
+    width: 50%;
+    height: 10%;
+}
+
+#ball_is_life{
+    text-align: center;
+}
+#showcase{
+    background-image: url('../images/profile/design.jpg');
+    background-position: center right;
+    height: 100px;
+    margin-bottom: 30px;
+    text-align: center;  
+}
+
+#showcase h1{
+    color:rgb(231, 223, 110);
+    font-size: 50px;
+    line-height: 1.6em;
+    padding-top: 30px;
+
+}
+
